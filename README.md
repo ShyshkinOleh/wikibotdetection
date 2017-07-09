@@ -1,2 +1,2 @@
 # wikibotdetection
-Final project for "Mining Massive datasets" course.
+Final project for "Mining Massive datasets" course at UCU.
